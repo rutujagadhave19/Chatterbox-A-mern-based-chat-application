@@ -1,3 +1,4 @@
+Chatterbox-A Mern-based Chat Application
 🌟 Tech Stack: Built with MERN (MongoDB, Express.js, React, Node.js) for seamless full-stack development, enhanced with Socket.io for real-time communication, and styled using TailwindCSS and Daisy UI for a sleek user interface. <br>
 🎃 Authentication & Authorization: Secure user login and role-based access control powered by JWT.<br>
 👾 Real-Time Messaging: Enable instant communication with real-time chat functionality using Socket.io.<br>
