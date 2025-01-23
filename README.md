@@ -5,7 +5,6 @@ Chatterbox-A Mern-based Chat Application
 🚀 Online User Tracking: Display live user activity and online status using React Context and Socket.io.<br>
 👌 State Management: Efficiently manage application-wide state with Zustand for a smooth user experience.<br>
 🐞 Error Handling: Comprehensive error handling mechanisms implemented on both the client and server sides.<br>
-⭐ Professional Deployment: Learn to deploy your app like a pro without any cost.<br>
 ⏳ Additional Features: Packed with more features to enhance functionality and usability!<br>
 
 
